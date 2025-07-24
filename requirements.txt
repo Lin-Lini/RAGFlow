@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-magic
+nltk
+langdetect
+sentence-transformers
+transformers
+torch
+scikit-learn
+pandas
+xlsxwriter
+elasticsearch
+aiofiles
+pdfminer.six
+python-docx
+python-pptx
+python-dotenv
